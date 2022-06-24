@@ -1,0 +1,19 @@
+basePath: /api/v1
+info:
+  contact: {}
+  description: Ready API
+  title: Ready
+  version: "1.0"
+paths:
+  /ping:
+    get:
+      consumes:
+      - application/json
+      description: 测试服务是否连通
+      produces:
+      - application/json
+      responses: {}
+      summary: Ping接口
+      tags:
+      - test
+swagger: "2.0"

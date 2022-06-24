@@ -1,0 +1,27 @@
+
+2022/06/23 14:41:42 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/23 21:40:55 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/23 21:43:48 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/23 21:43:54 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/24 17:45:42 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/24 17:56:27 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/24 17:57:28 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/24 18:02:20 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
+
+2022/06/24 18:03:15 /Users/bytedance/go/src/oasis/ready/initializer/db.go:46
+[error] failed to initialize database, got error Error 1049: Unknown database 'polis'
